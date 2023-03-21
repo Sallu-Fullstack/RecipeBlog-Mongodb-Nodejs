@@ -1,6 +1,6 @@
 # Recipe Blog - Using Node.js and MongoDB
 
-## Create .env file
+## Create .env file in your project folder
 Create a .env file to store your MongoDB database credentials
 
 ```
@@ -14,13 +14,17 @@ To run this project, install it locally using npm:
 $ npm install
 $ npm start
 ```
+Required To Download:
+```
+$ npm install -g nodemon
+$ npm install express
+```
 
 
 ### YouTube Video & Article
 
 [YouTube Video](https://youtu.be/OEdPH4fV7vY)
 
-[Read Article](https://raddy.dev/blog/how-to-build-a-recipe-blog-using-node-js-and-mongodb-express-ejs-mongoose-crud/)
 
 ### YouTube Channel - Raddy
 
@@ -29,7 +33,3 @@ $ npm start
 ### Website
 [www.raddy.dev](https://www.raddy.dev)
 
-### Donations
-[Via Paypal](https://www.paypal.com/donate/?hosted_button_id=YUH7JRDUN5QEY)
-
-[Buy me a Coffee](https://www.buymeacoffee.com/RaddyTheBrand)
